@@ -1,0 +1,44 @@
+.TestimonialWrapper{
+    background-color: #e5f0fd;
+}
+
+.content{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+}
+.content h2{
+    font-size: 24px;
+    color: #131a42;
+}
+.content p{
+    width: 50%;
+}
+.swiper{
+    width: 50%;
+}
+.Rating{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    text-align: center;
+}
+.Rating h3 span{
+    display: block;
+    font-size: 15px;
+    font-weight: 300;
+}
+.Rating h3 { 
+    font-size: 30px;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap:18px;
+}
+.Testimonial{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
