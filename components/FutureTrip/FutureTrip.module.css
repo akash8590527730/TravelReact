@@ -1,0 +1,9 @@
+.FutureTrip_Wrapper{
+    flex-direction: column;
+    gap:60px;
+}
+.FFutureTripCards{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:20px
+}
